@@ -7,7 +7,7 @@ Introduction
 
 This document will provide an overview of my internship screening task at FOSSEE Summer Fellowship 2024 , IIT  Bombay, where I successfully converted a static website into the Astro framework. I will walk through the steps I took, the challenges I faced, the things I learned through the task and the outcome of the project.  
 
-Task Overview 
+Task Overview  
 
 This task at hand involves converting an existing static website into the Astro framework and deploying it using Netlify. This entails a comprehensive examination of the website's HTML structure, including identifying reusable components like headers and footers, and assessing CSS styles and any custom frameworks employed. This also involves analysis of JavaScript functionality to understand dynamic behavior and dependencies, while evaluating content layout and responsiveness across devices, noting any inconsistencies for improvement. Furthermore, checking Media integration, such as images and videos, for compatibility with Astro's handling, and the website's existing grid system is assessed for integration with the framework's grid system. Overall, the goal is to ensure a seamless transition to the Astro framework while maintaining the website's functionality and aesthetics. 
 
