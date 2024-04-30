@@ -1,36 +1,34 @@
-# Astro-framework-Project-IIT-Bombay
+# Project Name: Static Website to Astro Framework Conversion
 
-```sh
-npm create astro@latest -- --template basics
-```
+## Overview:
+This project involves converting a static website into the Astro framework, a modern tool for building static websites that optimizes performance by generating static HTML at build time. The conversion process includes utilizing Astro's components and layout features to ensure responsiveness, performance optimization, and high code quality.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Prerequisites:
+To work on this project, you need to have the following prerequisites installed:
+- HTML
+- CSS 
+- Vanilla JavaScript
+- Git
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Detailed Description 
+### Conversion:
+The main task involves converting the existing static website into the Astro framework. This includes utilizing Astro's components and layout features to recreate the structure and design of the original website within the Astro environment.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+### Performance Optimization:
+Efforts are directed towards optimizing the website's performance using Astro's features. This includes creating separate components for header logos, the main menu, the hero section, each content section, and the footer. By modularizing the website's components, we aim to enhance performance and loading times.
 
-To start local server
+### Responsive Design:
+Ensuring full responsiveness across various devices and screen sizes is essential. The website is adapted seamlessly to different viewport sizes, providing users with a consistent and user-friendly experience on desktops, tablets, and smartphones.
 
-```bash
-npm run dev
-```
+### Code Quality:
+Maintaining high code quality is paramount. Clean, maintainable, and well-commented code is emphasized, adhering to best practices and coding conventions. This ensures the project's sustainability and facilitates collaboration with team members.
 
-## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+## Getting Started:
+To get started with the project, follow these steps:
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd <project-directory>`
+3. Install dependencies: `npm install`
+4. To run on locally  `npm run dev`
+5. Open your web browser and visit `http://localhost:3000` to view the website.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
